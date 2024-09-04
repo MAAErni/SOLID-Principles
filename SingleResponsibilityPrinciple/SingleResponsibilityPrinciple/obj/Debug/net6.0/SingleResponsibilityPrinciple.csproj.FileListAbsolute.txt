@@ -1,0 +1,58 @@
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Desktop\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.sourcelink.json
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Desktop\Apelo_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.sourcelink.json
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Desktop\Apelo Mikaella Anne_SOLID_Principles\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll

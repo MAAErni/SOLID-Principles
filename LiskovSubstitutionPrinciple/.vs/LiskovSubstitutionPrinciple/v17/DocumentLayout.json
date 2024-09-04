@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9672A0-DFAE-4274-9699-ADF84578D735}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:30:45.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\User.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\User.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\User.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:10:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Admin.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Admin.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Admin.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:11:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Employee.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Employee.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Employee.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:18:49.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

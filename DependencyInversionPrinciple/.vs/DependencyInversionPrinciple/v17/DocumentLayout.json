@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\dependencyinversionprinciple\\dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\dependencyinversionprinciple\\dependencyinversionprinciple\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\dependencyinversionprinciple\\dependencyinversionprinciple\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|c:\\users\\boot camp\\desktop\\activities\\apelo mikaella anne_solid_principles\\dependencyinversionprinciple\\dependencyinversionprinciple\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DAD94E-5E3B-4BDB-9101-C13827A55257}|DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj|solutionrelative:dependencyinversionprinciple\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:47:05.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\IEmailService.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\IEmailService.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:51:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\EmailService.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\EmailService.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:52:03.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\Notification.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\Notification.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Desktop\\Activities\\Apelo Mikaella Anne_SOLID_Principles\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\Notification.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:52:25.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
